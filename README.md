@@ -21,5 +21,5 @@ User Story: I can play in strict mode where if I get a button press wrong, it no
 User Story: I can win the game by getting a series of 20 steps correct. I am notified of my victory, then the game starts over.
 
 Advanced Front End Development Project for freeCodeCamp.
-This is currently deployed [here] (https://codepen.io/rja907/full/NwWKmm)!
+This is currently deployed [here](https://codepen.io/rja907/full/NwWKmm)!
 Try it out and let me know what you think about it! :D
