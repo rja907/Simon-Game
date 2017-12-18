@@ -1,0 +1,39 @@
+body {
+  background: #654321;
+  color: white;
+}
+.colorButton {
+  height: 300px;
+  width: 350px;
+  cursor: pointer;
+}
+.btnRed {
+  background: red;
+}
+.btnBlue {
+  background: blue;
+}
+.btnYellow {
+  background: yellow;
+}
+.btnGreen {
+  background: green;
+}
+.btnRed-active {
+  background: darkred !important;
+}
+.btnBlue-active {
+  background: darkblue !important;
+}
+.btnYellow-active {
+  background: #cccc00 !important;
+}
+.btnGreen-active {
+  background: darkgreen !important;
+}
+.start {
+  cursor: pointer;
+}
+.strict {
+  cursor: pointer;
+}
